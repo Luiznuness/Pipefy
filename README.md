@@ -1,0 +1,2 @@
+# Pipefy
+O pipefy tem várias formas de intergir com ele como: Create Card, Update Card, Delete Card etc... O meu código tem algumas dessas interções entre a API do pipefy com o python atraves da biblioteca requests!
